@@ -14,7 +14,7 @@ Resources
 #. `ClickHouse distinctive features <https://clickhouse.com/docs/en/about-us/distinctive-features>`_.
 #. `Set of sample databases <https://clickhouse.com/docs/en/getting-started/example-datasets>`_.
 #. `"What's on the menu" dataset step by step <https://clickhouse.com/docs/en/getting-started/example-datasets/menus>`_  and `original source <http://menus.nypl.org/data>`_.
-#. `Digitransit demo<https://github.com/dbeech/big-data-ldn-demo>`_ showing usage of big volumes of data with ClickHouse and Kafka in combination with other tools and databases with the help of Terraform.
+#. `Digitransit demo <https://github.com/dbeech/big-data-ldn-demo>`_ showing usage of big volumes of data with ClickHouse and Kafka in combination with other tools and databases with the help of Terraform.
 #. `ClickHouse performance <https://clickhouse.com/docs/en/about-us/performance>`_.
 #. `Wide set of benchmarks <https://benchmark.clickhouse.com/>`_ and accompanying `GitHub repo <https://github.com/ClickHouse/ClickBench/>`_.
 #. `Benchmark collection from Altinity <https://altinity.com/benchmarks/>`_.
